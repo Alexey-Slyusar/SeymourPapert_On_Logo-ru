@@ -1,10 +1,15 @@
-# SeymourPapert: On Logo
+This content is originally hosted on [Logo Foundation web page](https://el.media.mit.edu/logo-foundation/resources/onlogo/index.html).
 
-This content is originally hosted on Logo Foundation web page. 
-Alexey Slyusar migrated the content to Markdown and posted it here.
+Alexey Slyusar migrated the content to Markdown and posted it here. This has two purposes:
+* additional aviability of the Logo videos and study guide;
+* make a translation of these amazing materials into Russian.
 
-In 1986 Seymour Papert, the "father of Logo," collaborated with award-winning filmmaker William Schwartz and Elizabeth Schwartz, who was Assistant Superintendent of the Ladue, Missouri School District, to produce Seymour Papert On Logo.
+----
 
+# Seymour Papert: On Logo
+
+
+In 1986 Seymour Papert, the "father of Logo," collaborated with award-winning filmmaker William Schwartz and Elizabeth Schwartz, who was Assistant Superintendent of the Ladue, Missouri School District, to produce Seymour Papert On Logo. 
 
 
 In this video series, Papert shares his vision of thinking, learning, and teaching in a computer culture, and also addresses technical issues about Logo and programming more generally. 

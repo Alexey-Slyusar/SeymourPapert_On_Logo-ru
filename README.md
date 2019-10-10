@@ -1,17 +1,21 @@
 
 
-# Seymour Papert: On Logo Russian version
+# Seymour Papert: On Logo - Russian version
 
 Russian translation of the excellent documentation Seymour Papert: On Logo.
 
 For original English version visit:
 [Logo Foundation web page](https://el.media.mit.edu/logo-foundation/resources/onlogo/index.html).
 
+---
+
+# Сеймур Пейперт: Про Лого
+
 ![SeymourPapert_On_Logo-ru](./images/onlogo.png)
 
-In 1986 Seymour Papert, the "father of Logo," collaborated with award-winning filmmaker William Schwartz and Elizabeth Schwartz, who was Assistant Superintendent of the Ladue, Missouri School District, to produce Seymour Papert On Logo. 
+В 1986 году Сеймур Пейперт, создатель лого, в сотрудничестве с известным режиссером Уильямом Шварцем и Элизабет Шварц, помощницей руководителя окружных школ Ладью, Миссури, создал серию видеоматериалов Сеймур Паперт: Про Лого.
 
-In this video series, Papert shares his vision of thinking, learning, and teaching in a computer culture, and also addresses technical issues about Logo and programming more generally. 
+В этой серии видеоматериалов, Пейперт делится своим взглядом на мышление, обучение и преподавания в условиях компьютерной культуры, а также рассматривае технические вопросы Лого и программирования в целом.
 
 ![SeymourPapert_On_Logo-ru](./images/seymour.png)
 

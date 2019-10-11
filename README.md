@@ -2,7 +2,7 @@
 
 # Seymour Papert: On Logo - Russian version.
 
-Russian translation of the excellent documentation Seymour Papert: On Logo.
+Russian translation of the excellent Seymour Papert: On Logo materials.
 
 For original English version please visit:
 [Logo Foundation web page](https://el.media.mit.edu/logo-foundation/resources/onlogo/index.html).
@@ -19,15 +19,14 @@ For original English version please visit:
 
 ![SeymourPapert_On_Logo-ru](./images/seymour.png)
 
-Seymour Papert On Logo offers a window into a time when computers and Logo had been in widespread use in schools for just a few years, while also delving into issues about computing and education that remain relevant today.
+Сеймур Пейперт Про Лого предоставляет окно в то время когда в течение всего нескольких лет, компьютеры и Лого широко использовались в школах США, а также углубляется в вопросы технологий и образования которые остаются актуальными и сегодня.
 
-The 10 videos in the series are now being made available here on the Logo Foundation website for your personal and educational use under the terms of use specified below.
+Эти 10 видеозаписей серии были опубликоаны на веб странице [Logo Foundation](https://el.media.mit.edu/logo-foundation/resources/onlogo/index.html) для использования в личных и образовательных целях в соотвествии с правилами использования приведёнными ниже. Правила использования идентичны и для настоящего перевода материалов на русский язык.
 
-The Seymour Papert On Logo video series has two parts:
+Серия видеозаписей Сеймур Пейперт Про Лого состоит из двух частей: 
 
-* New Mindstorms focuses on the process and the principles of learning.
-* Logo Hurdles is about specific technical aspects of Logo.
+* Новый переворот в сознании, сфоркусирована на процессе и принципах обучения.
+* Лого Барьеры, описывающая конкретные технические объекты.
 
-An additional component, On LogoWriter, looks at that specific version of Logo, which was developed by Logo Computer Systems Inc (LCSI) and had just been released in 1985.
-
-Click on a title below to view the video. 
+Дополнительные компонент, Про Логорайтер, рассматривает конкретную версию Лого, которая была разработана Logo Computer Systems Inc (LCSI), и только что была выпущена в 1985 году.
+ 

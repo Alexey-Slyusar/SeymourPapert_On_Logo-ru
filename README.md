@@ -29,4 +29,8 @@ For original English version please visit:
 * Лого Барьеры, описывающая конкретные технические аспекты.
 
 Дополнительные компонент, Про Логорайтер, рассматривает конкретную версию Лого, которая была разработана Logo Computer Systems Inc (LCSI), и только что была выпущена в 1985 году.
- 
+
+Кликните по названию для просмотра видео:
+
+## <a name="NM"></a> New Mindstorms
+1. [New Mindstorms, tape 1 Resonances](NM1.md)

@@ -32,5 +32,5 @@ For original English version please visit:
 
 Кликните по названию для просмотра видео:
 
-## <a name="NM"></a> New Mindstorms
-1. [New Mindstorms, tape 1 Resonances](NM1.md)
+## <a name="NM"></a> Новый переворот в сознании
+1. [Новый переворот в сознании, кассета 1 Резонансы](NM1.md)   [Новый переворот в сознании, кассета 2 Резонансы](NM2.md)

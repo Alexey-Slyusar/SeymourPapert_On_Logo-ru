@@ -3,4 +3,4 @@
 ## Обучение
 
 Этот модуль рассматривает Лого как инструмент,который учителям необходиомо приспособить к своим личным стилям работы.
-[![NM1](./images/spol_video.png)](https://youtu.be/vCQ0Fj6UY1I?autoplay=1)
+[![NM2](./images/spol_video.png)](https://youtu.be/vCQ0Fj6UY1I?autoplay=1)

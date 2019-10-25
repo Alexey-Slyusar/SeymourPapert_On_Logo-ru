@@ -1,4 +1,4 @@
 # Сеймур Пейперт: О Логорайтере
-## Кассета 1 
+## Кассета 2 
 
-[![LR1](./images/LW.png)](https://youtu.be/HNeeOy1tXHw?autoplay=1)
+[![LR2](./images/LW2.png)](https://youtu.be/HNeeOy1tXHw?autoplay=1)

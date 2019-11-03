@@ -48,13 +48,13 @@ For original English version please visit:
 
 Учебное пособие было разработано для сопровождения видеоматериалов серии Барьеры. Оно предназначено для поддержки индивидуального обучения и оказания помощи руководителям семинаров и преподавателям курсов. Материалы, в переводе на русский язык, доступны по ссылкам:
 
-[Введение](./studyguide/intro_ru.pdf)
+1. [Введение](./studyguide/intro_ru.pdf)
 
-[Лого грамматика](./studyguide/hurdles1_ru.pdf)
+2. [Лого грамматика](./studyguide/hurdles1_ru.pdf)
 
-[Имена и переменные](./studyguide/hurdles2_ru.pdf)
+3. [Имена и переменные](./studyguide/hurdles2_ru.pdf)
 
-[Образы рекурсии](./studyguide/hurdles3_ru.pdf)
+4. [Образы рекурсии](./studyguide/hurdles3_ru.pdf)
 
-[Заглядываем глубже](./studyguide/hurdles4_ru.pdf)
+5. [Заглядываем глубже](./studyguide/hurdles4_ru.pdf)
 
